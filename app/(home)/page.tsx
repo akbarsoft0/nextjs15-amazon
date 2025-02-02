@@ -65,7 +65,7 @@ export default async function Page() {
   // console.log(cards);
 
   const todaysDeals = await getProductsByTag({ tag: "todays-deal" });
-  const bestSellingProducts = await getProductsByTag({ tag: "best-sellers" });
+  const bestSellingProducts = await getProductsByTag({ tag: "best-seller" });
 
   return (
     <>
