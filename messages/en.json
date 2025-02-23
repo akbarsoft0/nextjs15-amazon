@@ -1,0 +1,12 @@
+{
+  "Header": {
+    "logo": "Next-i18n",
+    "home": "home",
+    "about": "about",
+    "contact": "contact"
+  },
+  "HomePage": {
+    "title": "Hello world!",
+    "contact": "Go to the contact page"
+  }
+}
